@@ -5,8 +5,6 @@
 - <b> SSH Brute-Force Attack Detection & Incident Response
   - 
 
-- <b>Active Directory Home Lab</b>
-  - 
 
 <h2>📄 Certifications </h2>
 
