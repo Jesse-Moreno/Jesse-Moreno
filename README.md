@@ -5,7 +5,6 @@
 - <b> SSH Brute-Force Attack Detection & Incident Response
   - 
 
-
 <h2>📄 Certifications </h2>
 
 - <b>Google Cybersecurity Professional Certificate (In Progress)</b>
