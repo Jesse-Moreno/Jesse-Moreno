@@ -2,8 +2,6 @@
 
 <h2>👤 About Me</h2>
 
-👤 About Me
-
 I’m an aspiring cybersecurity professional developing hands-on experience in security operations, threat detection, and incident investigation. Through practical labs and projects, I’m building technical skills in Linux security, log analysis, SIEM monitoring, and incident response.
 
 <h2>📂 Featured Projects:</h2>
