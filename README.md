@@ -6,8 +6,7 @@ I’m an aspiring cybersecurity professional developing hands-on experience in s
 
 <h2>📂 Featured Projects:</h2>
 
-- <b> SSH Brute-Force Attack Detection & Incident Response
- - [SSH Brute-Force Attack Detection & Incident Response](https://github.com/Jesse-Moreno/SSH-Brute-Force-Attack-Detection-Incident-Response)
+- [SSH Brute-Force Attack Detection & Incident Response](https://github.com/Jesse-Moreno/SSH-Brute-Force-Attack-Detection-Incident-Response)
 
 <h2>🛠️ Technical Skills </h2>
 
