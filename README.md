@@ -29,3 +29,5 @@ I’m an aspiring cybersecurity professional developing hands-on experience in s
 - <b>Google Cybersecurity Professional Certificate (In Progress)</b>
 
 <h2> 📲 Connect with me:</h2>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesse-moreno-590b9a448/)
