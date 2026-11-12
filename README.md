@@ -15,6 +15,10 @@ I’m an aspiring cybersecurity professional developing hands-on experience in s
 - Log Analysis
 - Security Monitoring
 - Incident Investigation
+- Incident Response
+- SIEM
+- Detection Engineering
+- Alert Triage
 
 <h2>🧰 Tools & Technologies </h2>
 
@@ -23,10 +27,14 @@ I’m an aspiring cybersecurity professional developing hands-on experience in s
 - journalctl
 - grep
 - UTM
+- Elastic Security
+- Kibana
+- KQL
 
-<h2>📄 Certifications </h2>
+<h2>📄 Certifications & Training </h2>
 
 - <b>Google Cybersecurity Professional Certificate (In Progress)</b>
+- <b>TryHackMe — SOC Level 1 Learning Path (In Progress)</b>
 
 <h2> 📲 Connect with me:</h2>
 
